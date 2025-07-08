@@ -8,6 +8,7 @@
 <body bgcolor="blue">
     <h1>Hi there!</h1>
     <div>
+        <img src="download.jpg"/>
         <p>me chamo tiago</p>
     </div>
 </body>
