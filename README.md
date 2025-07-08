@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="perfilGit/index.css">
 </head>
 <body>
-    <h1 color="red">Hi there!</h1>
-    <div color="blue">
+    <h1 color="#ff0000">Hi there!</h1>
+    <div color="#0000ff">
         <p>me chamo tiago</p>
     </div>
 </body>
