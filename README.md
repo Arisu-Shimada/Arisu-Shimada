@@ -6,12 +6,17 @@
     <link rel="stylesheet" href="perfilGit/index.css">
     <style>
         #h1{
-            background-color: white;
-            color: black;
+            color: red;
+        }
+        #div{
+            color: blue;
         }
     </style>
 </head>
 <body>
     <h1 id="h1">Hi there!</h1>
+    <div id="div">
+        <p>me chamo tiago</p>
+    </div>
 </body>
 </html>
