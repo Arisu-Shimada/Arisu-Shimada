@@ -6,5 +6,5 @@ I´m learning python and image processing at first, now coursing 2nd grade high 
  I´ve created some interesting projects like:
 
  |Line Follower Robot|Image Processing|Automatic Titulator|
- |-------------------|----------------|-------------------|
+ |:------------------|:--------------:|------------------:|
  |example image| example image| example image|
