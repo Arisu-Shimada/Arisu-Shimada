@@ -7,4 +7,4 @@ I´m learning python and image processing at first, now coursing 2nd grade high 
 
  |Line Follower Robot|Image Processing|Automatic Titulator|
  |:-----------------:|:--------------:|:-----------------:|
- |example image| example image| example image|
+ |![robot](robo.jpg)| example image|![titulador](titulador.jpg)|
