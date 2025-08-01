@@ -1,4 +1,6 @@
-# Hello! I´m Tiago 💻
+<img align="right" src="ears.gif" width="200px">
+
+# Hello! I´m Tiago <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 ## A Brazilian Developer 🇧🇷
 
 I´m learning python and image processing at first, now coursing 2nd grade high school at IFMS <img src="https://yt3.googleusercontent.com/ytc/AIdro_mQxwktRbLPcYDbe2NYDO_MckVIvR1ZxSj91WWnzXtskVI=s900-c-k-c0x00ffffff-no-rj" alt="IFMS" height="15px" width="15px"> with a integrated system developer´s course.
