@@ -11,9 +11,7 @@ I´m learning python and image processing at first, now coursing 2nd grade high 
  |:-----------------:|:--------------:|:-----------------:|
  |<img src="robo.jpg" alt="robot" height="100px" width="100px">|<img src="image.png" alt="Apollo" height="200px" width="200px">|<img src="titulador.jpg" alt="titulator" height="100px" width="100px">|
 
-<picture>
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Arisu-Shimada&show_icons=true&theme=dark&bg_color=00000000&title_color=87CEFA&text_color=C5CAC4&border_color=B4B2A7"/>
-</picture>
 
 ### My Habilities 🧠:
 
