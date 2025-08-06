@@ -3,7 +3,7 @@
 # Hello! I´m Tiago <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 ## A Brazilian Developer <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/250px-Flag_of_Brazil.svg.png" height="20px" width="30px">
 
-I´m learning python and image processing at first, now coursing 2nd grade high school at IFMS <img src="https://yt3.googleusercontent.com/ytc/AIdro_mQxwktRbLPcYDbe2NYDO_MckVIvR1ZxSj91WWnzXtskVI=s900-c-k-c0x00ffffff-no-rj" alt="IFMS" height="15px" width="15px"> with a integrated system developer´s course.
+I´m learning python and image processing at first, now coursing 2nd grade high school at IFMS <img src="https://yt3.googleusercontent.com/ytc/AIdro_mQxwktRbLPcYDbe2NYDO_MckVIvR1ZxSj91WWnzXtskVI=s900-c-k-c0x00ffffff-no-rj" alt="IFMS" height="15px" width="15px"> with a system developer´s integrated course.
 
  I´ve created some interesting projects like:
 
