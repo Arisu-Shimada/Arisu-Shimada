@@ -7,7 +7,7 @@ I´m learning python and image processing at first, now coursing 2nd grade high 
 
  I´ve created some interesting projects like:
 
- |Line Follower Robot|AI API|Automatic Titulator|
+ |Line Follower Robot|AI API|Automatic Titrator
  |:-----------------:|:--------------:|:-----------------:|
  |<img src="robo.jpg" alt="robot" height="100px" width="100px">|<img src="image.png" alt="Apollo" height="200px" width="200px">|<img src="titulador.jpg" alt="titulator" height="100px" width="100px">|
 
