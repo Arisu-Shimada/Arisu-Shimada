@@ -30,7 +30,7 @@ I´m learning python and image processing at first, now coursing 2nd grade high 
  
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Arisu-Shimada&show_icons=true&theme=dark&bg_color=00000000&title_color=87CEFA&text_color=C5CAC4&border_color=B4B2A7"/>
 
-### My Habilities 🧠:
+### My Habilities:
 
  |<code><img height="50" alt="python" src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png"></code>|<code><img height="40" alt="arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"></code>|<code><img height="50" alt="opencv" src="https://images.icon-icons.com/2699/PNG/512/opencv_logo_icon_170887.png"></code>|<code><img height="50" alt="raspberry" src="https://logodownload.org/wp-content/uploads/2018/02/raspberry-pi-logo.png"></code>|
  |:----:|:-----:|:-----:|:----------:| 
